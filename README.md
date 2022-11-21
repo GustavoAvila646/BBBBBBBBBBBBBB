@@ -1,2 +1,3 @@
 # wilsonjoffre1A
-repositorio do site 'Agapornis'
+Este repositório não esta mais sendo utilizado
+Por enquanto está desativado/descartado
