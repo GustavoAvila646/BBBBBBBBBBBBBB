@@ -1,2 +1,3 @@
-Este repositório não esta mais sendo utilizado.
+Este repositório não está mais sendo utilizado.
+
 Por enquanto está desativado/descartado.
